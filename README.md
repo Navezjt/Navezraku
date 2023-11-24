@@ -1,4 +1,4 @@
-# Rakuten m3u Generator
+# Rakuten m3u Generator 
 
 ## List
 [Generated list](output/rakuten.m3u)
