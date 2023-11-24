@@ -1,4 +1,4 @@
-GET https://gizmo.rakuten.tv/v3/live_channels 
+GET https://gizmo.rakuten.tv/v3/live_channels
     ?classification_id=36
     &device_identifier=web
     #&device_stream_audio_quality=2.0
